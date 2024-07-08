@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin Gajewski</h1>
 <h3 align="center">A student-athlete at Stevens Institute of Technology pursuing a Bachelor's Degree in Computer Science</h3>
 
-- 🔭 I’m currently working on **Creating a Blockchain/Cryptocurrency**
+- 🔭 I’m currently working on **Creating a Blockchain**
 
-- 🌱 I’m currently learning **Racket**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **jtgaj0825@gmail.com**
 
