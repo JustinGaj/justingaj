@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Creating a Blockchain**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **jtgaj0825@gmail.com**
 
