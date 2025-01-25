@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 I am currently seeking an internship or other job opportunity [in software engineering or information technology for summer 2025](in software engineering or information technology for summer 2025)
+- 👨‍💻 I am currently seeking an internship or other job opportunity **in software engineering or information technology for summer 2025**
 
 - 📫 How to reach me **jtgaj0825@gmail.com**
 
