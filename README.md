@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin Gajewski</h1>
 <h3 align="center">A 2/4 student-athlete at Stevens Institute of Technology pursuing a Bachelor's Degree in Computer Science</h3>
 
-- 🔭 I’m currently working on **developing a livestream app and a crypto tracker**
+- 🔭 I’m currently working on **developing a livestreaming app**
 
 - 🌱 I’m currently learning **bash, OCaml**
 
