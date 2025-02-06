@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing a livestreaming app**
 
-- 🌱 I’m currently learning **bash, OCaml**
+- 🌱 I’m currently learning **bash, OCaml, C**
 
 - 👨‍💻 I am currently seeking an internship or other job opportunity **in software engineering or information technology for summer 2025**
 
