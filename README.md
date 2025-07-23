@@ -1,15 +1,40 @@
 <h1 align="center">Hi 👋, I'm Justin Gajewski</h1>
 <h3 align="center">A student-athlete at Stevens Institute of Technology pursuing a BSc in Computer Science</h3>
 
-- 🔭 I’m currently working on **developing a livestream application**
+## 👨‍💻 Current Roles
+- **Software Development Intern** at **S&P Dow Jones Indices**  
+  Scaling index prototyping with Spring Boot, Docker, and AWS. Also building an AI assistant to explain financial indices to business users.
+- **AI/ML Fellow** at **Break Through Tech** with **Cornell Tech**  
+   Training and deploying ML models with TensorFlow, Pandas, and scikit-learn to solve practical business problems.
 
-- 👨‍💻 I am working as a software development intern at **S&P Dow Jones Indices**
+## 🚀 Featured Projects
+### 🎥 [Livestream App](https://github.com/JustinGaj) *(in progress)*
+> A real-time streaming platform with Next.js 14, RTMP/WHIP integration, chat, viewer counts, and moderation features.
+- RTMP + WHIP protocols, OBS integration
+- SSR performance optimization, responsive UI
+- Real-time chat and dashboard analytics
 
-- 🖥️ I am an AI/ML Fellow at **Break Through Tech**
+### 💸 Crypto Tracker  
+> Desktop app to track crypto portfolios with real-time API data.
+- Built with Python, Tkinter, Pandas, and Matplotlib  
+- Includes historical price trends, asset visualizations
 
-- 📫 How to reach me **justintgajewski@gmail.com**
+### 🔗 Blockchain Implementation  
+> Python-based blockchain with a RESTful Flask API.
+- Custom transaction validation and chain conflict resolution  
+- RESTful endpoints for full-node interaction
 
-- 🌱 I’m currently learning **Spring Boot, AWS, and Docker**
+## 🌱 Currently Learning
+- **Spring Boot** – for enterprise backend systems  
+- **AWS** – for infrastructure and cloud deployment  
+- **Docker** – for containerization and microservices  
+- **Jenkins** – for CI/CD automation and pipeline management  
+- **Next.js** – for full-stack React apps with SSR and API routes
+
+## 📫 Contact Me
+📧 justintgajewski@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/justingaj)  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
