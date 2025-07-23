@@ -32,6 +32,7 @@
 
 ## 📫 Contact Me
 📧 justintgajewski@gmail.com
+
 🔗 [LinkedIn](https://linkedin.com/in/justingaj)  
 
 <h3 align="left">Languages and Tools:</h3>
