@@ -18,7 +18,7 @@
 - Built with Python, Tkinter, Pandas, and Matplotlib  
 - Includes historical price trends, asset visualizations
 
-### 🔗 [Blockchain Implementation](https://github.com/JustinGaj/blockchain)
+### ⛓️ [Blockchain Implementation](https://github.com/JustinGaj/blockchain)
 > Python-based blockchain with a RESTful Flask API.
 - Custom transaction validation and chain conflict resolution  
 - RESTful endpoints for full-node interaction
