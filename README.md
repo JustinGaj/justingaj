@@ -8,10 +8,9 @@
    Training and deploying ML models with TensorFlow, Pandas, and scikit-learn to solve practical business problems.
 
 ## 🚀 Featured Projects
-### 🎥 [Livestream App](https://github.com/JustinGaj) *(in progress)*
+### 🎥 [Livestream App](https://github.com/JustinGaj/livestreamingapp) *(in progress)*
 > A real-time streaming platform with Next.js 14, RTMP/WHIP integration, chat, viewer counts, and moderation features.
-- RTMP + WHIP protocols, OBS integration
-- SSR performance optimization, responsive UI
+- RTMP + WHIP protocols, OBS integration, responsive UI
 - Real-time chat and dashboard analytics
 
 ### 💸 [Crypto Tracker](https://github.com/JustinGaj/cryptotracker)
