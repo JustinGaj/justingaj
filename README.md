@@ -14,12 +14,12 @@
 - SSR performance optimization, responsive UI
 - Real-time chat and dashboard analytics
 
-### 💸 Crypto Tracker  
+### 💸 [Crypto Tracker](https://github.com/JustinGaj/cryptotracker)
 > Desktop app to track crypto portfolios with real-time API data.
 - Built with Python, Tkinter, Pandas, and Matplotlib  
 - Includes historical price trends, asset visualizations
 
-### 🔗 Blockchain Implementation  
+### 🔗 [Blockchain Implementation](https://github.com/JustinGaj/blockchain)
 > Python-based blockchain with a RESTful Flask API.
 - Custom transaction validation and chain conflict resolution  
 - RESTful endpoints for full-node interaction
@@ -33,6 +33,7 @@
 
 ## 📫 Contact Me
 📧 justintgajewski@gmail.com
+
 🔗 [LinkedIn](https://linkedin.com/in/justingaj)  
 
 
