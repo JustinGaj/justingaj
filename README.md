@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Current Roles
 - **Software Development Intern** at **S&P Dow Jones Indices**  
-  Scaling index prototyping with Spring Boot, Docker, and AWS. Also building an AI assistant to explain financial indices to business users.
+  Scaling index prototyping algorithm with Spring Boot, Docker, and AWS. Also building an AI assistant to explain financial indices to business users.
 - **AI/ML Fellow** at **Break Through Tech** with **Cornell Tech**  
    Training and deploying ML models with TensorFlow, Pandas, and scikit-learn to solve practical business problems.
 
