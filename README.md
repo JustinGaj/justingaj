@@ -4,11 +4,13 @@
 ## 🧠 About Me
 I’m a Stevens CS undergraduate who loves building things that are useful, fast, and (hopefully) a little clever. I’m especially into backend development, cloud systems, and machine learning; anything that combines logic with impact is for me. As a first-gen college student and student-athlete, I’ve learned to navigate challenges with persistence and curiosity. Whether I’m coding, jumping into new ideas (or sandpits), I’m always looking to grow, build cool stuff, and connect with others who love tech too.
 
-## 👨‍💻 Current Roles
+## 👨‍💻 Professional Experience
 - **Software Development Intern** at **S&P Dow Jones Indices**  
-  Scaling index prototyping algorithm with Spring Boot, Docker, and AWS. Also building an AI assistant to explain financial indices to business users.
+  Scaled index prototyping algorithm with Spring Boot, Docker, and AWS. Built APIs and AI-powered tools to improve transparency and project visibility.
+- **AI Studio Fellow** at **Verizon**  
+  Designing ML pipelines with Python to detect bird activity on cell towers, using image classification and object detection to support infrastructure and wildlife protection.  
 - **AI/ML Fellow** at **Break Through Tech** with **Cornell Tech**  
-   Training and deploying ML models with TensorFlow, Pandas, and scikit-learn to solve practical business problems.
+   Training and deploying ML models with TensorFlow, Pandas, and scikit-learn on real-world datasets while learning directly from industry professionals.
 
 ## 🎯 Featured Projects
 ### 🎥 [Livestream App](https://github.com/JustinGaj/livestreamingapp) *(in progress)*
