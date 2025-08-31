@@ -2,7 +2,7 @@
 <h3 align="center">A student-athlete at Stevens Institute of Technology pursuing a BSc in Computer Science</h3>
 
 ## 🧠 About Me
-I’m a Stevens CS undergraduate who loves building things that are useful, fast, and (hopefully) a little clever. I’m especially into backend development, cloud systems, and machine learning; anything that combines logic with impact is for me. As a first-gen college student and student-athlete, I’ve learned to navigate challenges with persistence and curiosity. Whether I’m coding, jumping into new ideas (or sandpits), I’m always looking to grow, build cool stuff, and connect with others who love tech too.
+I’m a Stevens CS undergraduate who loves building things that are useful, fast, and (hopefully) a little clever. I’m especially into backend development, cloud systems, blockchain technology, and machine learning; anything that combines logic with impact is for me. As a first-gen college student and student-athlete, I’ve learned to navigate challenges with persistence and curiosity. Whether I’m coding, jumping into new ideas (or sandpits), I’m always looking to grow, build cool stuff, and connect with others who love tech too.
 
 ## 👨‍💻 Professional Experience
 - **Software Development Intern** at **S&P Dow Jones Indices**  
