@@ -2,38 +2,33 @@
 <h3 align="center">A student-athlete at Stevens Institute of Technology pursuing a BSc in Computer Science</h3>
 
 ## 🧠 About Me
-I’m a Stevens CS undergraduate who loves building things that are useful, fast, and (hopefully) a little clever. I’m especially into backend development, cloud systems, blockchain technology, and machine learning; anything that combines logic with impact is for me. As a first-gen college student and student-athlete, I’ve learned to navigate challenges with persistence and curiosity. Whether I’m coding, jumping into new ideas (or sandpits), I’m always looking to grow, build cool stuff, and connect with others who love tech too.
+I'm a Stevens CS undergraduate (Class of 2027) who enjoys building things and figuring out how they work. I'm especially interested in **software engineering, AI/ML, and computer vision**, and I like working on projects where software can solve a real problem. As a first-gen college student and student-athlete, I've learned to approach new challenges with persistence and curiosity. When I'm not coding, I'm probably training for long jump or triple jump, playing chess or Mahjong, or getting interested in something new. 
 
 ## 👨‍💻 Professional Experience
+- **Software Engineering Intern** at **Arch Insurance**  
+   Worked across AI development, backend systems, and internal tooling. Built a LangGraph-based design agent and an Angular/Spring Boot interface for Arch's AI Development Lifecycle initiative, along with a technology operations dashboard using Dynatrace APIs and OAuth.
 - **Software Development Intern** at **S&P Dow Jones Indices**  
-  Scaled index prototyping algorithm with Spring Boot, Docker, and AWS. Built APIs and AI-powered tools to improve transparency and project visibility.
+  Scaled financial index prototyping algorithm with Spring Boot, Docker, AWS, and PostgreSQL. Built REST APIs, automated deployments with Jenkins, and an internal AI tool to help developers and projects managers understand code changes.
 - **AI Studio Fellow** at **Verizon**  
-  Designing ML pipelines with Python to detect bird activity on cell towers, using image classification and object detection to support infrastructure and wildlife protection.  
-- **AI/ML Fellow** at **Break Through Tech** with **Cornell Tech**  
-   Training and deploying ML models with TensorFlow, Pandas, and scikit-learn on real-world datasets while learning directly from industry professionals.
+  Designed computer vision pipelines in Python for detecting birds and nests on utility infrastructure using YOLOv8, OpenCV, and Pillow. Worked with both live and batch image feeds while collaborating with Verizon advisors throughout the project.
 
 ## 🎯 Featured Projects
-### 🎥 [Livestream App](https://github.com/JustinGaj/livestreamingapp) *(in progress)*
-> A real-time streaming platform with Next.js 14, RTMP/WHIP integration, chat, viewer counts, and moderation features.
-- RTMP + WHIP protocols, OBS integration, responsive UI
-- Real-time chat and dashboard analytics
+### 🚁 [Gimbaled Optical Sensor System] *(in progress)*
+> A Siemens-sponsored capstone focused on real-time computer vision and object tracking from a multi-rotor drone.
+- Building an OpenCV pipeline for detecting and tracking ground and aerial targets
+- Integrating the camera, gimbal, and embedded electronics into a compact airborne system
 
-### 💸 [Crypto Tracker](https://github.com/JustinGaj/cryptotracker)
-> Desktop app to track crypto portfolios with real-time API data.
-- Built with Python, Tkinter, Pandas, and Matplotlib  
-- Includes historical price trends, asset visualizations
-
-### ⛓️ [Blockchain Implementation](https://github.com/JustinGaj/blockchain)
-> Python-based blockchain with a RESTful Flask API.
-- Custom transaction validation and chain conflict resolution  
-- RESTful endpoints for full-node interaction
+### 🐦 [Project Falcon](https://github.com/JustinGaj/verizon-1a-project-falcon)
+> An AI-based computer vision project focused on detecting birds and nests on utility infrastructure.
+- Built YOLOv8 detection pipelines using Python, OpenCV, and Pillow 
+- Processed and standardized 15,000+ live and batch images
 
 ## 🌱 Currently Learning
-- **Spring Boot** – for enterprise backend systems  
-- **AWS** – for infrastructure and cloud deployment  
-- **Docker** – for containerization and microservices  
-- **Jenkins** – for CI/CD automation and pipeline management  
-- **Next.js** – for full-stack React apps with SSR and API routes
+- **Computer Vision** – real-time detection, tracking, and image processing
+- **AI Agents** - building workflows with LLMs and LangGraph
+- **Cloud & DevOps** - continuing to explore scalable deployment and infrastructure
+- **System Design** - learning how to build larger, more reliable software systems  
+
 
 ## 📫 Contact Me
 📧 justintgajewski@gmail.com
