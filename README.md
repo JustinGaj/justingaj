@@ -13,7 +13,7 @@ I'm a Stevens CS undergraduate (Class of 2027) who enjoys building things and fi
   Designed computer vision pipelines in Python for detecting birds and nests on utility infrastructure using YOLOv8, OpenCV, and Pillow. Worked with both live and batch image feeds while collaborating with Verizon advisors throughout the project.
 
 ## 🎯 Featured Projects
-### 🚁 [Gimbaled Optical Sensor System] *(in progress)*
+### 🚁 Gimbaled Optical Sensor System *(in progress)*
 > A Siemens-sponsored capstone focused on real-time computer vision and object tracking from a multi-rotor drone.
 - Building an OpenCV pipeline for detecting and tracking ground and aerial targets
 - Integrating the camera, gimbal, and embedded electronics into a compact airborne system
